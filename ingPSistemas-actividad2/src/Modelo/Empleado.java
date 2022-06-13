@@ -19,6 +19,7 @@ public class Empleado {
     String apellidoMaterno;
     int genero;
     //Bytes[] Foto;
+    //Int idArea
     Date fechaNacimiento;
     Date fechaIngresoEmpresa;
     Double salario;
